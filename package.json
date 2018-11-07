@@ -1,6 +1,6 @@
 {
   "name": "console-log-saver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple mechanism for collecting and saving to file logs from browser.",
   "main": "src/console-log-saver.js",
   "scripts": {
