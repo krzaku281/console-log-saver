@@ -1,6 +1,6 @@
 {
   "name": "console-log-saver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple mechanism for collecting and saving to file logs from browser.",
   "main": "src/console-log-saver.js",
   "scripts": {
@@ -13,15 +13,17 @@
   "keywords": [
     "console",
     "log",
+	"saver",
+	"console-log-saver",
     "console.log",
     "logs-to-file"
   ],
   "author": "Marek Krzak <krzakmarek88@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krzaku281/audio-stream-meter/issues"
+    "url": "https://github.com/krzaku281/console-log-saver/issues"
   },
-  "homepage": "https://github.com/krzaku281/audio-stream-meter#readme",
+  "homepage": "https://github.com/krzaku281/console-log-saver#readme",
   "publishConfig": {
 	"registry":"https://registry.npmjs.org/"
   }
